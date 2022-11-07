@@ -1,1 +1,8 @@
 
+**README**
+
+The folders "Lifetimes" and "Mixing_Angles" contain the data for all parameters discussed in the paper and listed in Tab. 2 / Fig. 1 for the lifetime (Fig. 9) and mixing angle (Fig. 10) constraints respectively.
+The weakest constraints are obtained by the COM model + parameters, the strongest by the ISO model.
+
+The first column contains the photon energy (for lifetime-files) or DM mass (for mixing-angle-files).
+The second column holds the y-values, i.e. the lifetime in years (for lifetime-files) or $\sin^2(2\Theta)$ (for mixing-angle-files).
