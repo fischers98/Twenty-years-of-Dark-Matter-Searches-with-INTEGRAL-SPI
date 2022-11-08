@@ -1,1 +1,8 @@
 
+#Data of Fig. 7#
+
+First column: Off-angle [deg]
+Second column: Background subtracted flux [cts/s/cm^2]
+Third column: Y-error
+
+X-error is +- 2.5 degrees in all bins
